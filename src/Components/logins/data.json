@@ -1,0 +1,49 @@
+
+
+
+[
+    {
+        "id":"1",
+        "pic":"./Assets/b1.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    },
+    {
+        "id":"2",
+        "pic":"./Assets/b2.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    },
+    {
+        "id":"3",
+        "pic":"./Assets/b3.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    },
+    {
+        "id":"4",
+        "pic":"./Assets/b4.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    },
+    {
+        "id":"5",
+        "pic":"./Assets/b3.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    },
+    {
+        "id":"6",
+        "pic":"./Assets/2.jpg",
+        "amount": "#300,00",
+        "locate": "lekki (face1)",
+        "kind": "Beautiful self Contain"
+    }
+
+    
+]

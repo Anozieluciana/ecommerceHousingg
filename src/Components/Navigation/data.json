@@ -1,0 +1,46 @@
+ [
+     {
+        "id":"h4",
+         "pic":"./Assets/h1.jpg",
+         "amount": "6 milllion",
+         "locate": "lekki (face1)",
+         "kind": "Beautiful self Contain"
+     },
+    {
+       "id":"2",
+     "pic":"./Assets/h1 (2).jpg",
+       "amount": "#2.5million",
+   "locate": "lekki (face1)",
+         "kind": "Beautiful cottage"
+  },
+     {
+         "id":"3",
+         "pic":"./Assets/h2.jpg",
+         "amount": "#300,00",
+         "locate": "shile Abuja",
+         "kind": "Beautiful self Contain"
+     },
+     {
+         "id":"4",
+         "pic":"./Assets/h3.jpg",
+         "amount": "#9.8 million",
+         "locate": "lekki ",
+         "kind": "Exquisite spanish"
+     },
+     {
+         "id":"5",
+         "pic":"./Assets/h4.jpg",
+         "amount": "#37.8 million",
+         "locate": "lekki (face1)",
+         "kind": "Lite Mansion"
+     },
+     {
+         "id":"6",
+         "pic":"./Assets/h6.jpg",
+         "amount": "#1 million",
+         "locate": "Sattelite town",
+         "kind": "Beautiful Barbie"
+     }
+
+    
+]
